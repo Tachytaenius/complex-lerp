@@ -10,13 +10,13 @@ Pretty cool way to visualise real number lerps, too.
 I also thought that maybe lerp(a,b,l)=(1-l)a+lb wouldn't work but lerp(a,b,l)=a+l(b-a) would, but they both work.
 Now my understanding of complex numbers has improved.
 
-# Controls
+## Controls
 
 - Left mouse: place lerp start A
 - Right mouse: place lerp end B
 - Middle mouse or L: place lerp end L
 
-# Display
+## Display
 
 - The real and imaginary number lines cross the middle of the screen horizontally and vertically, respectively
 - The complex plane's equivalent to the unit circle is drawn, too. Whatever it's called
@@ -26,7 +26,7 @@ Now my understanding of complex numbers has improved.
 - L is a blue point
 - The lerped quantity is a large grey point
 
-# Start
+## Start
 
 - A is -1+i
 - B is 2+2i
